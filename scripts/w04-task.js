@@ -21,6 +21,7 @@ let myProfile ={
 
 /* Populate Profile Object with placesLive objects */
     // If you insist...
+    
 myProfile.placesLived.push(
     {
         place: "Clarkdale, AZ",
